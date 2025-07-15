@@ -18,12 +18,14 @@ My fascination with patterns started early – as a child, I loved predicting th
 * **Side Courses & Development:** Beyond my degree, I'm actively pursuing **side courses** to expand my toolkit. My journey also includes developing small applications, learning to integrate APIs, and optimizing processes in tools like Excel, always striving for efficiency and automation.
 * **Vision:** I believe in the power of data to drive innovation and am constantly seeking new ways to apply my skills to solve real-world challenges.
 
+---------------------------------------------------------------------------------------------
 <p align="center">
 🌼 Skills & Tools 🌼
+  
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/29/ca/15/29ca15586beba48a9d763c3d313e91f5.jpg"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://media1.tenor.com/m/7zKZuIk31GEAAAAd/bird-dance.gif"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 </p>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
