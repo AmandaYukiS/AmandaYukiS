@@ -12,10 +12,21 @@
 
 ### 💡 My Journey 💡
 
-* **From Childhood Curiosity to Data Science:** My fascination with patterns started early – as a child, I loved predicting the next song on the radio or the upcoming show on TV. This innate passion for finding connections and anticipating what comes next naturally evolved into my journey in **Data Science**, where I now apply that same curiosity to real-world data.
+My fascination with patterns started early – as a child, I loved predicting the next song on the radio or the upcoming show on TV. This innate passion for finding connections and anticipating what comes next naturally evolved into my journey in **Data Science**, where I now apply that same curiosity to real-world data.
+
 * **Core Focus:** Currently, I am deeply focused on Data Analysis as part of my **Data Science degree**, emphasizing the exploration of trends, patterns, and actionable insights to guide decision-making.
 * **Side Courses & Development:** Beyond my degree, I'm actively pursuing **side courses** to expand my toolkit. My journey also includes developing small applications, learning to integrate APIs, and optimizing processes in tools like Excel, always striving for efficiency and automation.
 * **Vision:** I believe in the power of data to drive innovation and am constantly seeking new ways to apply my skills to solve real-world challenges.
-* **Let's Connect!** Feel free to reach out for collaborations, tech discussions, or just to exchange ideas! [www.linkedin.com/in/amanda-yuki-da-silva-sasaki-38126b358]
 
+<p align="center">
+  **🚀 Skills & Tools 🚀**
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/29/ca/15/29ca15586beba48a9d763c3d313e91f5.jpg"?raw=true" alt="Cute Dinosaur" style="width: 250px; height: auto; display: block; margin: 0 auto;"/>
+</p>
+
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
+  </p>
 ---
