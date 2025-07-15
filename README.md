@@ -1,4 +1,6 @@
-## Hi there 👋
+<a href="https://github.com/AmandaYukiS">
+  <img src="https://dl.glitter-graphics.com/pub/3454/3454126t6ndzb4yk0.gif -- go to www.glitter-graphics.com" alt="Imagem de capa"  style="width:100%; height:auto"/>
+</a>
 
 <!--
 **AmandaYukiS/AmandaYukiS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
