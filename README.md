@@ -28,7 +28,8 @@ My fascination with patterns started early – as a child, I loved predicting th
 
 <p align="center">
   
-   ![[My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
  
  </p>
 ---
