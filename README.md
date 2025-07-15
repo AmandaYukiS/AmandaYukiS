@@ -10,7 +10,7 @@
 
 ---
 
-### 💡 My Journey 💡
+### 🐝 My Journey 🐝
 
 My fascination with patterns started early – as a child, I loved predicting the next song on the radio or the upcoming show on TV. This innate passion for finding connections and anticipating what comes next naturally evolved into my journey in **Data Science**, where I now apply that same curiosity to real-world data.
 
@@ -19,9 +19,7 @@ My fascination with patterns started early – as a child, I loved predicting th
 * **Vision:** I believe in the power of data to drive innovation and am constantly seeking new ways to apply my skills to solve real-world challenges.
 
 <p align="center">
-  
-  **🚀 Skills & Tools 🚀**
-  
+🌼 Skills & Tools 🌼
 </p>
 
 <p align="center">
@@ -29,8 +27,8 @@ My fascination with patterns started early – as a child, I loved predicting th
 </p>
 
 <p align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
   
-  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
-  
-  </p>
+ </p>
 ---
