@@ -26,10 +26,10 @@ My fascination with patterns started early – as a child, I loved predicting th
   <img src="https://i.pinimg.com/736x/29/ca/15/29ca15586beba48a9d763c3d313e91f5.jpg"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 </p>
 
-<p align="center">
-  
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
- 
- </p>
----
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-3399CC?style=for-the-badge&logo=seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
