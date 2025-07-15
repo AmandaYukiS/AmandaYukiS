@@ -19,7 +19,9 @@ My fascination with patterns started early – as a child, I loved predicting th
 * **Vision:** I believe in the power of data to drive innovation and am constantly seeking new ways to apply my skills to solve real-world challenges.
 
 <p align="center">
+  
   **🚀 Skills & Tools 🚀**
+  
 </p>
 
 <p align="center">
@@ -27,6 +29,8 @@ My fascination with patterns started early – as a child, I loved predicting th
 </p>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&perline=3)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
+  
   </p>
 ---
