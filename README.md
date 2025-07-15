@@ -23,10 +23,10 @@ My fascination with patterns started early – as a child, I loved predicting th
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/29/ca/15/29ca15586beba48a9d763c3d313e91f5.jpg"?raw=true" alt="Cute Dinosaur" style="width: 250px; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://i.pinimg.com/736x/29/ca/15/29ca15586beba48a9d763c3d313e91f5.jpg"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 </p>
 
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,py,azure,css,js,vscode&perline=3)](https://skillicons.dev)
   </p>
 ---
