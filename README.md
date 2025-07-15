@@ -1,5 +1,5 @@
 <a href="https://github.com/AmandaYukiS">
-  <img src="https://dl.glitter-graphics.com/pub/3454/3454126t6ndzb4yk0.gif -- go to www.glitter-graphics.com" alt="Imagem de capa"  style="width:100%; height:auto"/>
+  <img src="https://dl.glitter-graphics.com/pub/3454/3454126t6ndzb4yk0.gif" alt="Imagem de capa"  style="width:100%; height:auto"/>
 </a>
 
 <!--
