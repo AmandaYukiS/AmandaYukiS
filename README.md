@@ -25,7 +25,7 @@ My fascination with patterns started early – as a child, I loved predicting th
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/7zKZuIk31GEAAAAd/bird-dance.gif"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://64.media.tumblr.com/271cd9b0cff37cf0fac113268cfc2f96/tumblr_pcw4z2rWr41rd615wo1_1280.gif"?raw=true" alt="Cute Dinosaur" style="width: 100%; height: auto; display: block; margin: 0 auto;"/>
 </p>
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
