@@ -42,11 +42,10 @@ My fascination with patterns started early – as a child, I loved predicting th
 
 ## projects overview
 
-<center>
 
+<p align="center">
   <img src="https://raw.githubusercontent.com/AmandaYukiS/AmandaYukiS/refs/heads/main/images/pizza.png" alt="Pizza de Projetos" style="width: 400px; height: auto; display: block; margin: 0 auto;"/>
-
-</center>
+</p>
 
 <div style="text-align: center;">
   <a href="https://github.com/AmandaYukiS/excel_activities" target="_blank" aria-label="Excel Projects" style="transition: filter 0.3s;" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter='none'">
