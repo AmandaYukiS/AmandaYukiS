@@ -40,3 +40,33 @@ My fascination with patterns started early – as a child, I loved predicting th
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+## projects overview
+
+<center>
+
+  <img src="http://googleusercontent.com/image_generation_content/2" alt="Pizza de Projetos" style="width: 400px; height: auto; display: block; margin: 0 auto;"/>
+
+</center>
+
+<p align="center">
+
+  <a href="[https://github.com/AmandaYukiS/excel_activities]" target="_blank">
+
+    ![Excel Projects](https://img.shields.io/badge/Excel%20Projects-90EE90?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+  </a>
+
+  <a href="[https://github.com/AmandaYukiS/general_projects]" target="_blank">
+
+    ![General Projects](https://img.shields.io/badge/General%20Projects-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
+
+  </a>
+
+  <a href="[https://github.com/AmandaYukiS/amazon-data-analysis]" target="_blank">
+
+    ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-ADD8E6?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+  </a>
+
+</p>
+
