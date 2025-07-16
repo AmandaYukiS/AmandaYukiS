@@ -44,7 +44,7 @@ My fascination with patterns started early – as a child, I loved predicting th
 
 <center>
 
-  <img src="http://googleusercontent.com/image_generation_content/2" alt="Pizza de Projetos" style="width: 400px; height: auto; display: block; margin: 0 auto;"/>
+  <img src="https://raw.githubusercontent.com/AmandaYukiS/AmandaYukiS/refs/heads/main/images/pizza.png" alt="Pizza de Projetos" style="width: 400px; height: auto; display: block; margin: 0 auto;"/>
 
 </center>
 
