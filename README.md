@@ -60,6 +60,5 @@ My fascination with patterns started early – as a child, I loved predicting th
 </div>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**Let's Connect!** Feel free to reach out for collaborations, tech discussions, or just to exchange ideas! [www.linkedin.com/in/
-amanda-yuki-da-silva-sasaki-38126b358]
+**Let's Connect!** Feel free to reach out for collaborations, tech discussions, or just to exchange ideas! [www.linkedin.com/in/amanda-yuki-da-silva-sasaki-38126b358]
 
