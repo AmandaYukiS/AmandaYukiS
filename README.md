@@ -51,7 +51,7 @@ My fascination with patterns started early – as a child, I loved predicting th
   <a href="https://github.com/AmandaYukiS/excel_activities" target="_blank" aria-label="Excel Projects" style="transition: filter 0.3s;" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter='none'">
     <img src="https://img.shields.io/badge/Excel%20Projects-90EE90?style=for-the-badge&logo=microsoftexcel&logoColor=black" alt="Excel Projects" />
   </a>
-  <a href="https://github.com/AmandaYukiS/general_project" target="_blank" aria-label="General Projects" style="transition: filter 0.3s;" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter='none'">
+  <a href="https://github.com/AmandaYukiS/general_projects" target="_blank" aria-label="General Projects" style="transition: filter 0.3s;" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter='none'">
     <img src="https://img.shields.io/badge/General%20Projects-FFB6C1?style=for-the-badge&logo=github&logoColor=black" alt="General Projects" />
   </a>
   <a href="https://github.com/AmandaYukiS/amazon-data-analysis" target="_blank" aria-label="Data Analysis" style="transition: filter 0.3s;" onmouseover="this.style.filter='brightness(1.1)'" onmouseout="this.style.filter='none'">
